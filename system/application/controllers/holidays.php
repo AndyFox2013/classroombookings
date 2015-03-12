@@ -1,5 +1,4 @@
 <?php
-date_default_timezone_set('UTC');
 class Holidays extends Controller {
 
 
